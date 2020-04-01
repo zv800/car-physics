@@ -1,0 +1,13 @@
+{
+"companyName": "zv800",
+"productName": "car physics game",
+"dataUrl": "xp.data.unityweb",
+"asmCodeUrl": "xp.asm.code.unityweb",
+"asmMemoryUrl": "xp.asm.memory.unityweb",
+"asmFrameworkUrl": "xp.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
